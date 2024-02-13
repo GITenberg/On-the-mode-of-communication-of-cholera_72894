@@ -1,0 +1,31 @@
+_repo: On-the-mode-of-communication-of-cholera_72894
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Snow, John
+    birthdate: 1813
+    deathdate: 1858
+    gutenberg_agent_id: '53843'
+    url: http://www.gutenberg.org/2009/agents/53843
+    wikipedia: https://en.wikipedia.org/wiki/John_Snow
+description: ''
+gutenberg_issued: '2024-02-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72894'
+language: en
+pgterms:marc905: 20150208203315snow
+pgterms:marc906: '1855'
+pgterms:marc907: GB
+production_note: Richard Tonsing, MWS, (Maps provided by The UCLA Fielding School
+  of Public Health Website), and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from scanned images of public domain material from the Google
+  Books project.)
+publication_note: '  $aLondon :$bJohn Churchill, $c1855.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: On the mode of communication of cholera
+url: http://www.gutenberg.org/ebooks/72894
